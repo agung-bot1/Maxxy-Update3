@@ -6,7 +6,7 @@ import moment from 'moment-timezone'
 
 /*Oᴡɴᴇʀ number*/
 global.owner = [
-  ['6285380166282', '️One', true],
+  ['6285709420641', '️One', true],
   ['6285380166282', '️Two', true],
   ['6285380166282', '️Three', true],
   ['6285380166282', '️Four', true],
